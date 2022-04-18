@@ -1,0 +1,7 @@
+node_modules
+.next
+node_modules
+ethereum/compile.js
+ethereum/contracts/TaskRewardTreasure.sol
+ethereum/contracts/TransferFunds.sol
+ethereum/deploy.js
